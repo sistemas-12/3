@@ -1,6 +1,6 @@
 {
-    "name": "mi_sistema_web",
-    "short_name": "mi_sistema_web",
+    "name": "nuevo",
+    "short_name": "nuevo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
